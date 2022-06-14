@@ -232,6 +232,10 @@ button:focus {
     background: #1260a2
 }
 
+.social-icon li .github:hover {
+    background: #6704a0
+}
+
 a.back-to-top {
     display: none;
     position: fixed;
